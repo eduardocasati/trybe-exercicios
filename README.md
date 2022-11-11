@@ -1,2 +1,1 @@
-# trybe-exercicios
-Pasta para salvar os exercícios da Trybe
+# Meu repositório de exercícios da Trybe
