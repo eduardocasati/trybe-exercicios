@@ -10,8 +10,8 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### Bloco 1: Introdução - Unix & Shell
 
-- [ :white_check_mark: ] 1-1: _Unix & Shell- Part 1_
-- [ :white_check_mark: ] 1-2: _Unix & Shell- Part 2_
+- [ :white_check_mark: ] 1-1: _Unix & Shell-  Parte 1_
+- [ :white_check_mark: ] 1-2: _Unix & Shell - Parte 2_
 
 ##### Bloco 2: Git & GitHub
 
