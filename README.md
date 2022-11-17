@@ -10,15 +10,15 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### Seção 1: Unix & Bash
 
-- [X] 1.1: _Unix & Bash - Parte 1_  
-[X] 1.2: _Unix & Bash - Parte 2_  
+- [X] 1.1: _Unix & Bash - Parte 1_
+- [X] 1.2: _Unix & Bash - Parte 2_
 
 ##### Seção 2: Git & GitHub
 
-[X] 2.1: _O que é e para que serve?_  
-[X] 2.2: _Entendendo os comandos_  
+- [X] 2.1: _O que é e para que serve?_
+- [X] 2.2: _Entendendo os comandos_
 
 ##### Seção 3: Introdução à HTML & CSS
 
-[X] 3.1: _Estruturas de página_  
-[X] 3.2: _Primeiros passos em CSS_  
+- [X] 3.1: _Estruturas de página_
+- [X] 3.2: _Primeiros passos em CSS_
