@@ -20,4 +20,4 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### Seção 3: Introdução à HTML & CSS
 
-:check_box_with_check: _Estruturas de página_
+☑️ _Estruturas de página_
