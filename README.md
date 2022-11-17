@@ -10,14 +10,14 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### Seção 1: Unix & Shell
 
-- :check_box_with_check: _Unix & Shell - Parte 1_
-- :check_box_with_check: _Unix & Shell - Parte 2_
+:check_box_with_check: _Unix & Shell - Parte 1_
+:check_box_with_check: _Unix & Shell - Parte 2_
 
 ##### Seção 2: Git & GitHub
 
-- :check_box_with_check: _O que é e para que serve?_
-- :check_box_with_check: _Entendendo os comandos_
+:check_box_with_check: _O que é e para que serve?_
+:check_box_with_check: _Entendendo os comandos_
 
 ##### Seção 3: Introdução à HTML & CSS
 
-- :check_box_with_check: _Estruturas de página_
+:check_box_with_check: _Estruturas de página_
