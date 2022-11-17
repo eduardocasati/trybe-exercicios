@@ -16,7 +16,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 ##### Seção 2: Git & GitHub
 
 :check_box_with_check: _O que é e para que serve?_
-:check_box_with_check: _Entendendo os comandos_
+✅ _Entendendo os comandos_
 
 ##### Seção 3: Introdução à HTML & CSS
 
