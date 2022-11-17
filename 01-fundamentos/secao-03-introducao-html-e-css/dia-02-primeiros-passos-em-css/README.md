@@ -1,3 +1,7 @@
+# Módulo 01 - Fundamentos
+## Seção 03 - Introdução à HTML e CSS
+### Dia 02 - Primeiros passos em CSS
+
 #### Parte 1: Introdução ao CSS
 
 - Modifique o tamanho do h1 para 65 pixels;
