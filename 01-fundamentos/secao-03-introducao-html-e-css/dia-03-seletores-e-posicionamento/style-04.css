@@ -27,3 +27,7 @@ div:nth-child(7), div:nth-child(7) h3 {
     background-color: violet;
     color: blueviolet;
 }
+
+div:nth-child(odd) {
+    font-style: italic;
+}
