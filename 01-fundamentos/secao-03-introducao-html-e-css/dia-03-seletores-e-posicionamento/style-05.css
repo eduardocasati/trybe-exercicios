@@ -22,3 +22,16 @@ li {
 li em {
     font-weight: bold;
 }
+
+/* Pesquisei no Google para saber o n+X */
+ul.programming-languages li:nth-last-of-type(n+3) {
+    color: blue;
+}
+
+li.java {
+    background-color: pink;
+}
+
+ul li a:hover {
+    font-weight: bold;
+}
