@@ -2,7 +2,7 @@
 ## Seção 03 - Introdução à HTML e CSS
 ### Dia 03 - Box Model - Modelo de caixas no CSS
 
-#### Parte 1: Modelo de caixas no CSS
+#### Parte 1: Modelo de caixas no CSS (Exercício 1)
 
     index-01.html
     style-01.css
@@ -11,7 +11,7 @@
 - Insira na classe abaixo uma margem de 30px para aplicá-la aos itens C e D
 - Insira na classe abaixo uma borda com valor '5px solid black' para aplicá-la ao item D
 
-#### Parte 2: Posicionamento de Elementos
+#### Parte 2: Posicionamento de Elementos (Exercício 2)
 
     index-02.html
     style-02.css
@@ -20,11 +20,12 @@
 - Posicione a tag p para que fique dentro do balão de fala.
 - Posicione o balão para que se torne uma fala de Browser.
 
-#### Parte 3: Agrupamento de Seletores e Pseudoclasses
+#### Parte 3: Agrupamento de Seletores e Pseudoclasses (Exercícios 3 e 4)
 
 ##### Parte 3 Exercício 1
 
     index-03.html
+    style-03.css
 
 - Adicione uma lista ordenada dos 3 melhores sites que você conhece.
 - Crie um arquivo no mesmo diretório e nomeie-o de ‘style.css’.
@@ -38,9 +39,12 @@
 ##### Parte 3 Exercício 2
 
     index-04.html
+    style-04.css
 
 - Estilize as divs para que, ao passar o cursor por cima das mesmas, elas ganhem uma borda.
 - Faça cada div ter uma cor própria.
 - Estilize cada uma das tags h3.
 - Faça a terceira div ser maior que as demais.
 - Deixe as tags ímpares h3 com o texto em itálico.
+
+#### Parte 4: Combinações e Classes Descendentes (Exercício 5)
