@@ -22,6 +22,8 @@
 
 #### Parte 3: Agrupamento de Seletores e Pseudoclasses
 
+##### Parte 3 Exercício 1
+
     index-03.html
 
 - Adicione uma lista ordenada dos 3 melhores sites que você conhece.
@@ -32,3 +34,13 @@
     - A fonte do item mude quando ele for clicado.
 - Adicione uma lista não ordenada com, pelo menos, 3 características que você gosta.
 - No ‘style.css’, adicione a propriedade ‘list-style: none’ para ambas as listas.
+
+##### Parte 3 Exercício 2
+
+    index-04.html
+
+- Estilize as divs para que, ao passar o cursor por cima das mesmas, elas ganhem uma borda.
+- Faça cada div ter uma cor própria.
+- Estilize cada uma das tags h3.
+- Faça a terceira div ser maior que as demais.
+- Deixe as tags ímpares h3 com o texto em itálico.
