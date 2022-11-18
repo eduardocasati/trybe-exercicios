@@ -16,6 +16,8 @@
   .baloon {
     position: absolute;
     z-index: 3;
+    top: 50px;
+    left: 300px;
   
   }
   
@@ -23,11 +25,14 @@
     font-size: 25px;
     position: absolute;
     z-index: 4;
+    left: 325px;
+    top: 90px;
   }
   
   .bowser {
     width: 200px;
     position: absolute;
     z-index: 5;
-    left: 400px;
+    left: 600px;
+    top: 200px;
   }
