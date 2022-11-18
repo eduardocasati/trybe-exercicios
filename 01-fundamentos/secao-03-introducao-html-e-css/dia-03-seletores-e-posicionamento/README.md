@@ -1,6 +1,6 @@
 # Módulo 01 - Fundamentos
 ## Seção 03 - Introdução à HTML e CSS
-### Dia 03 - Box Model - Modelo de caixas no CSS
+### Dia 03 - Seletores e posicionamento
 
 #### Parte 1: Modelo de caixas no CSS (Exercício 1)
 
