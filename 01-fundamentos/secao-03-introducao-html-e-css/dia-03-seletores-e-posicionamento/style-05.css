@@ -32,6 +32,26 @@ li.java {
     background-color: pink;
 }
 
-ul li a:hover {
+li a:hover {
     font-weight: bold;
+}
+
+ul.allies li:hover:nth-of-type(1) a {
+    color: orange;
+}
+
+ul.allies li:hover:nth-of-type(2) a {
+    color: greenyellow;
+}
+
+ul.allies li:hover:nth-of-type(3) a {
+    color: black;
+}
+
+ul.allies li:hover:nth-of-type(4) a {
+    color: yellow;
+}
+
+ul.allies li:hover:nth-of-type(5) a {
+    color: green;
 }
