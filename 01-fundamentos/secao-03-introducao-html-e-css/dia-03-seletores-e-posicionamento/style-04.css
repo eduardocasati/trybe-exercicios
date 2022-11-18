@@ -3,22 +3,27 @@ div:hover {
 }
 
 /* Tive que pesquisar a pseudo-classe :nth-child(X) no Google */
-div:nth-child(3){
+div:nth-child(3), div:nth-child(3) h3 {
     background-color:red;
+    color: darkorange;
 }
 
-div:nth-child(4) {
+div:nth-child(4), div:nth-child(4) h3 {
     background-color: purple;
+    color: pink;
 }
 
-div:nth-child(5) {
+div:nth-child(5), div:nth-child(5) h3 {
     background-color: yellowgreen;
+    color: darkgreen;
 }
 
-div:nth-child(6) {
+div:nth-child(6), div:nth-child(6) h3 {
     background-color: darkblue;
+    color: aquamarine;
 }
 
-div:nth-child(7) {
+div:nth-child(7), div:nth-child(7) h3 {
     background-color: violet;
+    color: blueviolet;
 }
