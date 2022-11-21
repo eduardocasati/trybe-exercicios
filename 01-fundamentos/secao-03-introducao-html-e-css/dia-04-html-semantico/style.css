@@ -9,6 +9,7 @@ h1 {
     text-align: center;
     width: 200px;
     display: block;
+    margin: auto;
 }
 
 .second {
