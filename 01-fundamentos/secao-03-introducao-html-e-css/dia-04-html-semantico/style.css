@@ -28,3 +28,15 @@ h1 {
     width: 300px;
     display: inline-block;
 }
+
+h3 {
+    text-align: center;
+}
+
+li {
+    display: inline;
+}
+
+ul {
+    text-align: center;
+}
