@@ -2,7 +2,7 @@
 ## Seção 03 - Introdução à HTML e CSS
 ### Dia 04 - HTML Semântico
 
-#### Parte 1: Modelo de caixas no CSS (Exercício 1)
+#### Elementos de bloco e elementos inline
 
     index.html
     style.css
