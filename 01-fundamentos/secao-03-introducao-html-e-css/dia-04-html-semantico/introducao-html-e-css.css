@@ -22,6 +22,7 @@ header h1 {
 header nav {
     background-color: aquamarine;
     padding: 6px 0px;
+    text-align: center;
 }
 
 header nav li {
@@ -30,4 +31,13 @@ header nav li {
     text-align: center;
     margin-left: 10px;
     margin-right: 10px;
+}
+
+main {
+    margin: auto;
+    max-width: 80%;
+}
+
+.facts h2 {
+    background-color: bisque;
 }
