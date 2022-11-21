@@ -12,6 +12,10 @@
     PALETA DE CORES
 */
 
+body {
+    background-color: aliceblue;
+}
+
 header h1 {
     background-color: blueviolet;
     font-family: 'Inter', sans-serif;
@@ -34,6 +38,7 @@ header nav li {
 }
 
 main {
+    background-color: brown;
     margin: auto;
     max-width: 60%;
 }
@@ -48,4 +53,14 @@ main {
     background-color: darkkhaki;
     margin-left: 30px;
     padding: 10px 0px;
+}
+
+.facts p {
+    background-color: dimgrey;
+    margin-left: 30px;
+    text-indent: 15px;
+}
+
+.facts table {
+    margin: auto;
 }
