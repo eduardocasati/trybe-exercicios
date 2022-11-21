@@ -35,9 +35,17 @@ header nav li {
 
 main {
     margin: auto;
-    max-width: 80%;
+    max-width: 60%;
 }
 
 .facts h2 {
     background-color: bisque;
+    margin-left: 10px;
+    padding: 10px 0px;
+}
+
+.facts h3 {
+    background-color: darkkhaki;
+    margin-left: 30px;
+    padding: 10px 0px;
 }
