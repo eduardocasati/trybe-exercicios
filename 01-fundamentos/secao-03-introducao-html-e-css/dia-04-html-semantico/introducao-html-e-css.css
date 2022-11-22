@@ -134,6 +134,14 @@ a:hover {
     font-weight: 600;
 }
 
+aside {
+    background-color: aqua;
+    position: relative;
+    float: right;
+    height: 100%;
+    width: 22%;
+}
+
 footer {
     padding: 20px 0px 0px 0px;
     text-align: center;
