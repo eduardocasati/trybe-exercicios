@@ -108,6 +108,7 @@ main table {
     margin-left: 18px;
     border: 1px solid black;
     font-family: 'Roboto', sans-serif;
+    font-size: 0.9em;
 }
 
 main table caption {
@@ -137,9 +138,8 @@ a:hover {
 aside {
     background-color: aqua;
     position: relative;
-    float: right;
-    height: 100%;
-    width: 22%;
+    float:right;
+    height: 500px;
 }
 
 footer {
