@@ -61,12 +61,12 @@ header nav li {
 header nav a {
     text-decoration: none;
     font-weight: 600;
-    color: white;
+    color: #F1D302;
 }
 
 header nav a:hover {
     transition-duration: 0.4s;
-    color: #F1D302;
+    color: white;
 }
 
 main {
