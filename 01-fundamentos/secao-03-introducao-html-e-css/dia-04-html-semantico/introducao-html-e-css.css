@@ -10,11 +10,11 @@
     font-family: 'Roboto', sans-serif;
 
     PALETA DE CORES
-    Snow #F4EDED
-    Naples Yellow #F9DB6D
-    Shadow #877666
-    Celadon Green #36827F
-    Purple Navy #464D77
+    Baby Powder #FDFFFC
+    Bdazzled Blue #235789
+    Fire Engine Red #C1292E
+    Safety Yellow #F1D302
+    Raisin Black #161925
 */
 
 body {
@@ -145,6 +145,7 @@ footer {
 
 .back-to-top a {
     padding-bottom: 10px;
+    color: #235789;
 }
 
 .credits {
@@ -152,4 +153,8 @@ footer {
     background-color: #235789;
     color: white;
     font-size: 0.8em;
+}
+
+.credits a {
+    color: #F1D302;
 }
