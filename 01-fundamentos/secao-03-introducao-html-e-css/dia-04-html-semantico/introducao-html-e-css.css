@@ -18,34 +18,40 @@
 */
 
 body {
-    background-color: aliceblue;
+    background-color: #FDFFFC;
+}
+
+header {
+    background-color: #235789;
+    border-radius: 0px 0px 0px 0px;
+    box-shadow: 0px 0px 10px rgb(0 0 0 / 40%);
+}
+
+header h1, h2 {
+    font-family: 'Inter', sans-serif;
+    text-align: center;
 }
 
 header h1 {
-    background-color: blueviolet;
     padding: 50px 0px 10px 0px;
-    font-family: 'Inter', sans-serif;
     font-size: 3em;
-    text-align: center;
     text-shadow: 2px 2px 0px rgb(0 0 0 / 20%);
+    color: white;
 }
 
 header h2 {
-    background-color: blueviolet;
     padding-bottom: 30px;
-    text-align: center;
     font-size: 2em;
     text-shadow: 2px 0px rgb(0 0 0 / 20%);
+    color: white;
 }
 
 header nav {
-    background-color: aquamarine;
     padding: 6px 0px;
     text-align: center;
 }
 
 header nav li {
-    background-color: azure;
     display: inline-block;
     text-align: center;
     margin-left: 10px;
@@ -55,33 +61,37 @@ header nav li {
 header nav a {
     text-decoration: none;
     font-weight: 600;
+    color: white;
 }
 
 header nav a:hover {
-    transition-duration: 0.2s;
-    color: green;
+    transition-duration: 0.4s;
+    color: #F1D302;
 }
 
 main {
-    background-color: brown;
+    background-color: white;
     margin: auto;
     max-width: 60%;
+    border-radius: 0px 0px 10px 10px;
+    box-shadow: 0px 0px 10px rgb(0 0 0 / 40%);
 }
 
-.facts h2 {
-    background-color: bisque;
-    margin-left: 10px;
-    padding: 10px 0px;
+main h2 {
+    background-color: white;
+    padding: 10px 0px 0px 15px;
+    font-family: 'Source Sans Pro', sans-serif;
+    text-align: left;
+    color: #161925; 
 }
 
 .facts h3 {
-    background-color: darkkhaki;
     margin-left: 30px;
     padding: 10px 0px;
+    color: #C1292E;
 }
 
 .facts p {
-    background-color: dimgrey;
     padding-left: 30px;
     margin-right: 15px;
     text-indent: 15px;
@@ -103,6 +113,7 @@ main {
 .facts table caption {
     font-weight: 600;
     text-align: center;
+    color: #C1292E;
 }
 
 .punch {
@@ -110,7 +121,6 @@ main {
     float: left;
     margin-left: 30px;
     padding-right: 15px;
-    text-shadow: 2px 2px 0px rgb(0 0 0 / 20%);
 }
 
 .eyes {
@@ -118,26 +128,6 @@ main {
     float: right;
     margin-right: 15px;
     padding-left: 15px;
-    text-shadow: 2px 2px 0px rgb(0 0 0 / 20%);
-}
-
-.bibliographic-references {
-    background-color: aqua;
-    margin: auto;
-    max-width: 60%;
-    padding-bottom: 10px;
-}
-
-.bibliographic-references h3 {
-    background-color: bisque;
-    margin-left: 10px;
-    padding: 10px 0px;
-}
-
-.bibliographic-references ul {
-    background-color: dimgrey;
-    margin-left: 45px;
-    margin-right: 15px;
 }
 
 a:hover {
@@ -145,15 +135,21 @@ a:hover {
 }
 
 footer {
-    background-color: darkgoldenrod;
-    padding: 20px 0px 10px 0px;
+    padding: 20px 0px 0px 0px;
     text-align: center;
 }
 
 .back-to-top {
-    padding-bottom: 10px;
+    padding-bottom: 20px;
 }
 
 .back-to-top a {
     padding-bottom: 10px;
+}
+
+.credits {
+    padding: 5px 0px;
+    background-color: #235789;
+    color: white;
+    font-size: 0.8em;
 }
