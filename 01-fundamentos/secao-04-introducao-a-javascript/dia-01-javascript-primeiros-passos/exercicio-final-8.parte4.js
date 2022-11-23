@@ -1,9 +1,9 @@
-let salarioBruto = 1600;
+let salarioBruto = 2500;
 
 let parcelaINSS;
 let parcelaIR;
 
-//IF da aliquota do INNS
+//IF da parcela do INNS
 if (salarioBruto > 0 && salarioBruto <= 1556.94) {
     parcelaINSS = salarioBruto * 0.08;
 } else if (salarioBruto >= 1156.95 && salarioBruto <= 2594.92) {
@@ -16,23 +16,29 @@ if (salarioBruto > 0 && salarioBruto <= 1556.94) {
     console.log("Valor do salário bruto inválido!")
 }
 
-//IF da aliquota do IR
-if (salarioBruto > 0 && salarioBruto <= 1903.98) {
+//cálculo dedução do INSS
+let salarioBase = salarioBruto - parcelaINSS;
+
+//IF da parcela do IR
+if (salarioBase > 0 && salarioBase <= 1903.98) {
     parcelaIR = 0;
-} else if (salarioBruto >= 1903.99 && salarioBruto <= 2826.65) {
-    parcelaIR = salarioBruto * 0.075;
-} else if (salarioBruto >= 2826.66 && salarioBruto <= 3751.05) {
-    parcelaIR = salarioBruto * 0.15;
-} else if (salarioBruto >= 3751.06 && salarioBruto <= 4664.68) {
-    parcelaIR = salarioBruto * 0.225;
-} else if (salarioBruto >= 4664.68) {
-    parcelaIR = salarioBruto * 0.275;
+} else if (salarioBase >= 1903.99 && salarioBase <= 2826.65) {
+    parcelaIR = salarioBase * 0.075;
+} else if (salarioBase >= 2826.66 && salarioBase <= 3751.05) {
+    parcelaIR = salarioBase * 0.15;
+} else if (salarioBase >= 3751.06 && salarioBase <= 4664.68) {
+    parcelaIR = salarioBase * 0.225;
+} else if (salarioBase >= 4664.68) {
+    parcelaIR = salarioBase * 0.275;
 } else {
     console.log("Valor do salário bruto inválido!")
 }
 
-let salarioLiquido;
+//calculo salário final
+let salarioLiquido = salarioBase - parcelaIR;
 
-console.log(salarioBruto);
-console.log(parcelaINSS);
-console.log(parcelaIR);
+console.log("O salário bruto é:", salarioBruto);
+console.log("O valor do INSS a ser deduzido é:", parcelaINSS);
+console.log("O salário base é:", salarioBase);
+console.log("O valor do IR a ser deduzido é:", parcelaIR);
+console.log("O salário líquido é:", salarioLiquido);
