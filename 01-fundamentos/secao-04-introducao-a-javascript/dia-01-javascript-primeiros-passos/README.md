@@ -137,7 +137,7 @@ Experimente trocar o valor da string ou até mesmo montar seu próprio algoritmo
 
 #### 8: 🚀 Há um par entre nós
 
-    exercicio-final-8-<parte>.js
+    exercicio-final-8.<parte>.js
 
 **PARTE 1:**
 - Utilize `if/else` para escrever um código que defina três números em constantes e retorne `true` se pelo menos uma das três for par. Caso contrário, ele deve retornar `false`.
