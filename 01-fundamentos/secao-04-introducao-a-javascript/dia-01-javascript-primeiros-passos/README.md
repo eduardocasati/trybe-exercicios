@@ -15,7 +15,21 @@
 
 #### Parte 2 - Tipos Primitivos, Tipagem Dinâmica e Operações Aritméticas
 
+    exercicio2.js
+
 - Crie uma constante chamada `base` e atribua a ela o valor 5.
 - Crie uma constante uma chamada `heigth` e atribua a ela o valor 8.
 - Crie uma constante chamada `area` e atribua a ela o resultado da multiplicação da `base` pela `heigth`. Dica: lembre-se de usar ~~sempre~~ o `console.log()` para imprimir as variáveis e checar os resultados das operações!
 - Crie uma constante chamada `perimeter` e atribua a ela a soma de todos os lados do retângulo.
+
+#### Parte 3 - Condições If e Else
+
+    exercicio3.js
+
+- Crie uma constante que receba a nota de uma pessoa candidata em um desafio técnico, e atribua a ela um valor entre 1 e 100;
+- mplemente uma lógica que verifique se a pessoa candidata foi aprovada, reprovada ou se essa pessoa está na lista de espera. Para isso, considere as seguintes informações:
+    - Se a nota for maior ou igual a 80, imprima “Parabéns, você foi aprovada(o)!”
+    - Se a nota for menor que 80 e maior ou igual a 60, imprima “Você está na nossa lista de espera”
+    - Se a nota for menor que 60, imprima “Você foi reprovada(o)”
+- Crie uma estrutura condicional utilizando o `if`, `else if` e `else` para criar o seu algoritmo, e os operadores lógicos que se aplicam a cada situação.
+- Altere o valor da nota para verificar se as condições que você implementou funcionam.
