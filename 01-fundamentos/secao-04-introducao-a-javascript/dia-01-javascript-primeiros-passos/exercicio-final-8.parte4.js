@@ -37,8 +37,9 @@ if (salarioBase > 0 && salarioBase <= 1903.98) {
 //calculo salário final
 let salarioLiquido = salarioBase - parcelaIR;
 
-console.log("O salário bruto é:", salarioBruto);
-console.log("O valor do INSS a ser deduzido é:", parcelaINSS);
-console.log("O salário base é:", salarioBase);
-console.log("O valor do IR a ser deduzido é:", parcelaIR);
-console.log("O salário líquido é:", salarioLiquido);
+//saída
+console.log("O salário bruto é: R$", salarioBruto.toFixed(2));
+console.log("O valor do INSS a ser deduzido é: R$", parcelaINSS.toFixed(2));
+console.log("O salário base é: R$", salarioBase.toFixed(2));
+console.log("O valor do IR a ser deduzido é: R$", parcelaIR.toFixed(2));
+console.log("O salário líquido é: R$", salarioLiquido.toFixed(2));
