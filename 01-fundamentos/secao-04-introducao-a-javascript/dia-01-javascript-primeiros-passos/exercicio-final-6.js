@@ -1,10 +1,10 @@
 let chessPiece;
 
-chessPiece = "queen";
+chessPiece = "kInG";
 
-console.log(chessPiece);
+console.log(chessPiece.toUpperCase());
 
-switch (chessPiece) {
+switch (chessPiece.toLowerCase()) {
     case "king":
         console.log("The King moves from its square to a neighboring square.");
         break;
