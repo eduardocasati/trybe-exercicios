@@ -86,8 +86,14 @@ Experimente trocar o valor da string ou até mesmo montar seu próprio algoritmo
     - Divisão (a / b)
     - Módulo (a % b)
 
-#### 1:
+#### 2:
 
     exercicio-final-2.js
 
 - Utilize `if/else` para escrever um código que retorne o maior de dois números. Defina, no começo do seu código, duas constantes com os valores que serão comparados.
+
+#### 3:
+
+    exercicio-final-3.js
+
+- Utilize `if/else` para escrever um código que retorne o maior de três números. Defina, no começo do seu código, três constantes com os valores que serão comparados.
