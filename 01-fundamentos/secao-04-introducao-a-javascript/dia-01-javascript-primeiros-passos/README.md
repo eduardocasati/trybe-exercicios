@@ -73,7 +73,7 @@ Experimente trocar o valor da string ou até mesmo montar seu próprio algoritmo
 
 ---
 
-### EXERCÍCIOS FINAIS
+#### EXERCÍCIOS FINAIS
 
 #### 1:
 
@@ -103,3 +103,11 @@ Experimente trocar o valor da string ou até mesmo montar seu próprio algoritmo
     exercicio-final-4.js
 
 - Utilize `if/else` para escrever um código que, dado um valor recebido como parâmetro, retorne “positive” se esse valor for positivo, “negative” se for negativo, e caso não seja nem positivo e nem negativo retorne “zero”.
+
+#### 5:
+
+    exercicio-final-5.js
+
+- 🚀 Utilize `if/else` para escrever um código que defina três constantes com os valores dos três ângulos internos de um triângulo. Retorne `true` se os ângulos representarem os ângulos de um triângulo e `false`, caso contrário. Se algum ângulo for inválido, você deve retornar uma mensagem de erro.
+    - [Para os ângulos serem de um triângulo válido, a soma dos três deve ser 180 graus](https://blogdoenem.com.br/triangulos-propriedades/).
+    - Um ângulo será considerado inválido se não tiver um valor positivo.
