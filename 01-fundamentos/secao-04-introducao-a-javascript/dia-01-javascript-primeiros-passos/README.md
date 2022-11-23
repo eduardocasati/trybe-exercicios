@@ -50,6 +50,7 @@ Altere o valor da nota para verificar se as condições que você implementou fu
     - Se o horário estiver entre 4 e 11, insira “Hmmm, cheiro de café recém-passado” na variável “message”.
 - Agora imprima a variável `message` fora das suas condições.
 
+
     exercicio5.js
 
 - Crie uma variável chamada “weekDay” que receba a string “quarta-feira”.
@@ -58,3 +59,14 @@ Altere o valor da nota para verificar se as condições que você implementou fu
     - Se for algum dia de fim de semana, imprima “FINALMENTE, descanso merecido UwU”.
 
 Experimente trocar o valor da string ou até mesmo montar seu próprio algoritmo. Esse assunto é muito importante para seu aprendizado :).
+
+#### Parte 5 - Switch e Case
+
+    exercicio6.js
+
+- Crie uma variável para armazenar o status da pessoa candidata no processo seletivo, que pode ser: `"aprovada"`, `"lista"` ou `"reprovada"`;
+- Crie uma estrutura condicional com o `switch/case` que irá imprimir as seguintes mensagens:
+    - Caso `"aprovada"`, imprima “Parabéns, você foi aprovada(o)!”.
+    - Caso `"lista"`, imprima “Você está na nossa lista de espera”.
+    - Caso `"reprovada"`, imprima “Você foi reprovada(o)”.
+    - Caso `default`, imprima a mensagem de “Informação incorreta”.
