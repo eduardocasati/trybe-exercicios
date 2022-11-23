@@ -11,7 +11,8 @@
 - Crie uma variável `let` chamada `birthYear` e atribua a ela o ano em que você nasceu.
 - Utilize o `console.log()` para imprimir as constantes e variáveis que você criou.
 - Altere o valor atribuído à variável `birthYear` para 2030. Faça um `console.log(birthYear)` novamente para ver o que acontece!
-- Altere o valor atribuído à constante `birthCity`. Faça um `console.log(birthCity)` novamente! Você saberia explicar por que recebemos uma mensagem de erro? **R:** _Não é possível atribuir um novo valor para uma variável const._
+
+Altere o valor atribuído à constante `birthCity`. Faça um `console.log(birthCity)` novamente! Você saberia explicar por que recebemos uma mensagem de erro? **R:** _Não é possível atribuir um novo valor para uma variável const._
 
 #### Parte 2 - Tipos Primitivos, Tipagem Dinâmica e Operações Aritméticas
 
@@ -32,4 +33,16 @@
     - Se a nota for menor que 80 e maior ou igual a 60, imprima “Você está na nossa lista de espera”
     - Se a nota for menor que 60, imprima “Você foi reprovada(o)”
 - Crie uma estrutura condicional utilizando o `if`, `else if` e `else` para criar o seu algoritmo, e os operadores lógicos que se aplicam a cada situação.
-- Altere o valor da nota para verificar se as condições que você implementou funcionam.
+
+Altere o valor da nota para verificar se as condições que você implementou funcionam.
+
+#### Parte 4 - Operadores lógicos
+
+    exercicio4.js
+
+- Crie uma variável chamada “weekDay” que receba a string “quarta-feira”.
+- Utilizando `if/else`, implemente condicionais para que:
+    - Se nossa variável “weekDay” for “segunda-feira”, “terça-feira”, “quarta-feira”, “quinta-feira” ou “sexta-feira”, imprima “Oba, mais um dia de aprendizado na Trybe >:D”.
+    - Se for algum dia de fim de semana, imprima “FINALMENTE, descanso merecido UwU”.
+
+Experimente trocar o valor da string ou até mesmo montar seu próprio algoritmo. Esse assunto é muito importante para seu aprendizado :).
