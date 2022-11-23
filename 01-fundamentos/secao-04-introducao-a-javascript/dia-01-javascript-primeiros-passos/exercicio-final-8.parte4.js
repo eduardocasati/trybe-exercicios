@@ -1,21 +1,38 @@
 let salarioBruto = 1600;
-let salarioLiquido;
 
-let aliquotaINSS;
-let aliquotaIR;
+let parcelaINSS;
+let parcelaIR;
 
-//if da aliquota do INNS
+//IF da aliquota do INNS
 if (salarioBruto > 0 && salarioBruto <= 1556.94) {
-    aliquotaINSS = 0.08;
+    parcelaINSS = salarioBruto * 0.08;
 } else if (salarioBruto >= 1156.95 && salarioBruto <= 2594.92) {
-    aliquotaINSS = 0.09;
+    parcelaINSS = salarioBruto * 0.09;
 } else if (salarioBruto >= 2594.93 && salarioBruto <= 5189.82) {
-    aliquotaINSS = 0.11;
+    parcelaINSS = salarioBruto * 0.11;
 } else if (salarioBruto >= 5189.82) {
-    aliquotaINSS = 570.88;
+    parcelaINSS = 570.88;
 } else {
-    console.log("Valor inválido!")
+    console.log("Valor do salário bruto inválido!")
 }
 
+//IF da aliquota do IR
+if (salarioBruto > 0 && salarioBruto <= 1903.98) {
+    parcelaIR = 0;
+} else if (salarioBruto >= 1903.99 && salarioBruto <= 2826.65) {
+    parcelaIR = salarioBruto * 0.075;
+} else if (salarioBruto >= 2826.66 && salarioBruto <= 3751.05) {
+    parcelaIR = salarioBruto * 0.15;
+} else if (salarioBruto >= 3751.06 && salarioBruto <= 4664.68) {
+    parcelaIR = salarioBruto * 0.225;
+} else if (salarioBruto >= 4664.68) {
+    parcelaIR = salarioBruto * 0.275;
+} else {
+    console.log("Valor do salário bruto inválido!")
+}
+
+let salarioLiquido;
+
 console.log(salarioBruto);
-console.log(aliquotaINSS);
+console.log(parcelaINSS);
+console.log(parcelaIR);
