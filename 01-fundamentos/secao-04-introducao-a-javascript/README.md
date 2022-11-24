@@ -22,4 +22,4 @@ Nessa seção aprendi na prática sobre:
 - Objetos
 - For/In
 - Funções
-- Projeto [Playground Functions]()
+- Projeto [Playground Functions](#)
