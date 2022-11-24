@@ -22,4 +22,5 @@ Nessa seção aprendi na prática sobre:
 - Objetos
 - For/In
 - Funções
-- Projeto [Playground Functions](#)
+
+Também fiz o projeto [Playground Functions](#).
