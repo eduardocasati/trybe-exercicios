@@ -4,6 +4,8 @@
 // - Uma sequência de 6 números é sorteada nesse mesmo intervalo.
 // - Se os números forem correspondentes.
 
+//Math.floor(Math.random()) * 60) + 1;
+
 // Jogo feito
 const gabrielGame = [8, 22, 26, 37, 42, 60];
 console.log('Números escolhidos:', gabrielGame);
