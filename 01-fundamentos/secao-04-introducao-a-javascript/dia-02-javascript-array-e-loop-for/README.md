@@ -22,6 +22,16 @@
 
 - Utilize o `for/of` para imprimir os elementos da lista names com o `console.log()`.
 
+#### Parte 4 - Aula ao Vivo - Jogo da Mega-Sena
+
+    lotterychecker.js
+
+Vamos desenvolver um algoritmo em JavaScript que verifica se a pessoa ganhou na Mega-Sena.
+Para isso:
+- A pessoa marca 6 números
+- Uma sequência de 6 números é sorteada nesse mesmo intervalo.
+- Se os números forem correspondentes.
+
 #### EXERCÍCIOS FINAIS
 
 #### 1:

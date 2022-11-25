@@ -4,14 +4,20 @@
 // - Uma sequência de 6 números é sorteada nesse mesmo intervalo.
 // - Se os números forem correspondentes.
 
-//Math.floor(Math.random()) * 60) + 1;
+// Math.floor(Math.random()) * 60) + 1;
 
 // Jogo feito
 const gabrielGame = [8, 22, 26, 37, 42, 60];
+
 console.log('Números escolhidos:', gabrielGame);
 
 // Jogo Sorteado
-const megaSenaNumbers = [4, 20, 32, 28, 39, 60];
+const megaSenaNumbers = [];
+
+for (let index = 0; index < 6; index += 1) {
+    megaSenaNumbers.push(Math.floor(Math.random() * 60) + 1);
+}
+
 console.log('Números sorteados:', megaSenaNumbers);
 
 // Variável que conta quantos acertos aconteceram
