@@ -38,7 +38,7 @@ Iremos utilizar esse array para realizar os próximos exercícios.
 
 #### 1: 🚀 Lidando com Arrays
 
-    exercicio-final-1.js
+    exercicio-final-1.<x>.js
 
     `let numbers = [5, 9, 3, 19, 70, 8, 100, 2, 35, 27];`
 
