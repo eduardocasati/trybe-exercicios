@@ -57,3 +57,16 @@
 `***  `
 `**** `
 `*****`
+
+#### Exercício Bônus 3
+
+    exercicio-bonus-3.js
+
+- Agora inverta o lado do triângulo. Por exemplo:
+`n = 5`
+`     `
+`    *`
+`   **`
+`  ***`
+` ****`
+`*****`
