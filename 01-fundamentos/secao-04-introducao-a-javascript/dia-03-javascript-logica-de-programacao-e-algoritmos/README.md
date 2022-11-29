@@ -44,3 +44,16 @@
 `*****`
 `*****`
 `*****`
+
+#### Exercício Bônus 2
+
+    exercicio-bonus-2.js
+
+- Faça o mesmo que antes, mas que imprima um triângulo retângulo com 5 asteriscos de base. Por exemplo:
+`n = 5`
+`     `
+`*    `
+`**   `
+`***  `
+`**** `
+`*****`
