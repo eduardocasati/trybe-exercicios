@@ -31,3 +31,16 @@
     exercicio4.js
 
 - Um número primo é um número inteiro maior do que 1 que possui somente dois divisores, ou seja, é divisível por 1 e por ele mesmo. Sabendo disso, escreva um algoritmo que imprima no console o maior número primo entre 2 e 50.
+
+#### Exercício Bônus 1
+
+    exercicio-bonus-1.js
+
+- Escreva um programa que, dado um valor `n` qualquer, seja `n > 1`, imprima na tela um quadrado feito de asteriscos de lado de tamanho `n`. Por exemplo:
+`n = 5`
+`     `
+`*****`
+`*****`
+`*****`
+`*****`
+`*****`
