@@ -10,7 +10,7 @@
 
     `O fatorial é representado pelo sinal !`
     `4! = 4 x 3 x 2 x 1 = 24`
-    
+
 - Com base nessas informações, crie um algoritmo que imprima na tela o fatorial de 10.
 
 #### Exercício 2
@@ -43,13 +43,13 @@
 
 - Escreva um programa que, dado um valor `n` qualquer, seja `n > 1`, imprima na tela um quadrado feito de asteriscos de lado de tamanho `n`. Por exemplo:
 
-    `n = 5`
-    `     `
-    `*****`
-    `*****`
-    `*****`
-    `*****`
-    `*****`
+    n = 5
+         
+    *****
+    *****
+    *****
+    *****
+    *****
 
 #### Exercício Bônus 2
 
