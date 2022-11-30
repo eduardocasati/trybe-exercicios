@@ -29,3 +29,8 @@
     parte-1-exercicio-4.js
 
 - Acesse a chave `bestInTheWorld`, usando a sintaxe `meuObjeto['chave']`, e faça um `console.log` no seguinte formato: “A jogadora Marta Silva foi eleita a melhor do mundo por 6 vezes”.
+
+
+    parte-1-exercicio-5.js
+
+- Acesse a chave `medals`, usando a sintaxe `meuObjeto.chave`, e faça um `console.log` no seguinte formato: “A jogadora possui 2 medalhas de ouro e 3 medalhas de prata”.
