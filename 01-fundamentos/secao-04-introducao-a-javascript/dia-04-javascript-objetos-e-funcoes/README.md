@@ -34,3 +34,26 @@
     parte-1-exercicio-5.js
 
 - Acesse a chave `medals`, usando a sintaxe `meuObjeto.chave`, e faça um `console.log` no seguinte formato: “A jogadora possui 2 medalhas de ouro e 3 medalhas de prata”.
+
+#### Parte 2: for/in e for/of
+
+    parte-2-exercicio-1.js
+
+- Usando o objeto abaixo, utilize `for/in` e imprima no console a mensagem `'Olá xxxxx'` para cada nome, substituindo o `xxxxx` pelo nome em questão.
+
+    `let names = {`
+    `person1: 'João',`
+    `person2: 'Maria',`
+    `person3: 'Jorge',`
+    `};`
+
+
+    parte-2-exercicio-2.js
+
+- Usando o objeto abaixo, utilize `for/in` e imprima um `console.log` com as chaves e valores desse objeto.
+
+    `let car = {`
+    `model: 'A3 Sedan',`
+    `manufacturer: 'Audi',`
+    `year: 2020`
+    `};`
