@@ -1,10 +1,12 @@
-function positiveNegative (num1) {
+function positiveNegative (num) {
 
     if (num > 0) {
-        return console.log('Positive.');
+        return 'Positive.';
     } else if (num < 0) {
-        return console.log('Negative');
+        return 'Negative';
     } else {
-        return console.log('Zero.')
+        return 'Zero.';
     }
 }
+
+console.log(positiveNegative(-6));
