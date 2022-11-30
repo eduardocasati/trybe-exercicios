@@ -24,3 +24,8 @@
 - Adicione ao objeto a chave `bestInTheWorld`, usando a sintaxe `meuObjeto.chave = valor`, e atribua a essa chave um `array` contendo as datas em que a jogadora Marta foi considerada a melhor do mundo.
 
     `[2006, 2007, 2008, 2009, 2010, 2018]`
+
+
+    parte-1-exercicio-4.js
+
+- Acesse a chave `bestInTheWorld`, usando a sintaxe `meuObjeto['chave']`, e faça um `console.log` no seguinte formato: “A jogadora Marta Silva foi eleita a melhor do mundo por 6 vezes”.
