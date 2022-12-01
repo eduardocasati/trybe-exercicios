@@ -189,3 +189,28 @@ let leitor = {
         - Retorno esperado: `true`
     - `verificaFimPalavra('joaofernando', 'fernan')`;
         - Retorno esperado: `false`
+
+#### Exercícios Bônus
+
+    bonus-exercicio-x.js até bonus-exercicio-y.js
+
+**EXERCÍCIO 1**
+
+- Faça um programa que receba uma `string` em algarismos romanos e retorne o número que a `string` representa.
+
+**EXERCÍCIO 2**
+
+- Crie uma função chamada `arrayOfNumbers` que receberá a variável `vector` como parâmetro.
+- Através de um loop `for`, percorra essa variável, busque os números pares e os adicione a um novo `array`, que deverá ser retornado ao final pela função.
+`let vector = [[1, 2], [3,4,5,6], [7,8,9,10]];`
+
+**EXERCÍCIO 3**
+
+- A partir do array de frutas `basket`, retorne um objeto que contenha o nome da fruta como chave e a quantidade de vezes que ela aparece no array como valor. Por exemplo, o array `[‘Melancia’, ‘Abacate’, ‘Melancia’, ‘Melancia’, ‘Uva’]`, deverá retornar `{ Melancia: 3, Abacate: 1, Uva: 1 }` quando passado como argumento para a função.
+- Em seguida, imprima esse resultado na tela com uma mensagem no seguinte formato: `Sua cesta possui: x Melancias, x Abacates...`
+
+**EXERCÍCIO 4**
+
+- Usando o objeto `moradores`, faça o que for pedido no exercício:
+    - Acesse as chaves `nome`, `sobrenome`, `andar` e `apartamento` do último morador do `blocoDois` e faça um `console.log` no seguinte formato: “O morador do bloco 2 de nome Zoey Brooks mora no 1° andar, apartamento 101”.
+    - Utilize o `for` para imprimir o nome completo de todos os moradores do bloco 1, acessando suas chaves `nome` e `sobrenome`. Depois faça o mesmo para os moradores do bloco 2.
