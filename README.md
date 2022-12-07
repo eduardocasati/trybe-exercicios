@@ -34,3 +34,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] 4.4: _Objetos e funções_
 - [X] 4.5: _JavaScript ES6 - let, const, arrow functions e template literals_
 - [X] 4.6: _Projeto_ [Playground Functions](#)
+
+#### Seção 5: JavaScript: DOM, Eventos e Web Storage
+
+- [X] 5.1: _DOM e seletores_
