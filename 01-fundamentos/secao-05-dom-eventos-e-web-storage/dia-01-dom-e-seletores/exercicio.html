@@ -48,7 +48,12 @@
       document.getElementsByClassName("center-content")[0].style.backgroundColor = "white";
       document.getElementsByClassName("title")[0].innerText = "Desafio - JavaScript";
       document.getElementsByTagName("p")[0].style.textTransform = "uppercase";
+      
+      const consoleLog = document.getElementsByTagName("p");
+      for (let index = 0; index < consoleLog.length; index += 1) {
+        console.log(consoleLog[index].innerText);
+      };
 
-    </script>
+      </script>
   </body>
 </html>
