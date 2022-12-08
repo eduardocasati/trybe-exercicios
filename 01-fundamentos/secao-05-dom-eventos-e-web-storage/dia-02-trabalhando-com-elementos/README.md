@@ -23,3 +23,9 @@
 - Crie um filho para `elementoOndeVoceEsta`.
 - Crie um filho para `primeiroFilhoDoFilho`.
 - A partir desse filho criado, acesse `terceiroFilho`.
+
+#### Exercício 3
+
+    exercicio-3.js
+
+- Remova a tag `h2`, filha do elemento `elementoOndeVoceEsta`
