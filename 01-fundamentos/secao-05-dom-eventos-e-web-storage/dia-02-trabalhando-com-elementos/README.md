@@ -4,7 +4,7 @@
 
 #### Exercício 1
 
-    exercicio-1.html, exercicio-1.js
+    exercicio-1.html
 
 - Acesse o elemento `elementoOndeVoceEsta`.
 - Acesse `pai` a partir de `elementoOndeVoceEsta` e adicione uma `color` a ele.
